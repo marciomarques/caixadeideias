@@ -1,0 +1,131 @@
+body{
+	color: white;
+	background: url(../assets/bg-body.jpg);
+	background-attachment: fixed;
+}
+.text-center{
+	text-align: center;
+}
+.center{
+	margin: 0 auto;
+}
+.logo{
+	margin-top: 50px;
+}
+.header{
+	
+}
+
+.logo h2{
+	color: #59b0d1;
+	font-family: Voltaire, sans-serif;
+	font-size: 68px;
+	font-weight: normal;
+	line-height: 50px;
+	padding-top: 30px;
+}
+
+.logo h2.internas{
+	color: #59b0d1;
+	font-family: Voltaire, sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	line-height: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.logo h2 span{
+	color: black;
+}
+
+.logo h3{
+	font-family: Voltaire, sans-serif;
+	font-size: 18px;
+	color: white;
+	line-height: 10px;
+	/* background: #1f4784; */
+}
+
+a.btn-call{
+	width: 414px;
+	min-height: 121px;
+	display: block;
+	background: url(../assets/bt-call.png) no-repeat;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-indent: -9999px;
+}
+
+a:hover.btn-call {
+	background: url(../assets/bt-call-hover.png) no-repeat;
+}
+
+.o-que{
+	width: 100%;
+	min-height: 80px;
+	background: #383e39;
+	padding-top: 20px;
+}
+
+.o-que h3{
+	font-size: 18px;
+	line-height: 10px;
+	text-align: center;
+}
+
+section{
+	min-height: 500px;	
+}
+
+section h2{
+	font-family: Voltaire, sans-serif;
+	font-size: 120px;
+	margin-top: 60px;
+	line-height: 120px;
+	text-transform: uppercase;
+	padding-bottom: 30px;
+}
+
+section h3{
+	font-size: 30px;
+}	
+
+.interna{
+	padding-top: 50px;
+}
+
+.container h4{
+	font-family: Voltaire, sans-serif;
+	color: #fff7c0;
+	line-height: 20px;
+	text-transform: uppercase;
+}
+
+.projetos{
+	min-height: 700px;
+	padding-bottom: 80px;
+	background: url(../assets/bg-azul-claro.png);
+}
+
+.introducao{
+	min-height: 700px;
+	padding-bottom: 50px;
+	background: url(../assets/bg-azul-claro.png);
+}
+
+.nosso-processo{
+	padding-bottom: 80px;
+	background: #383e39;
+	text-align: center;
+}
+
+/* .nosso-processo{} */
+
+#footer {
+	width: 100%;
+	min-height: 300px;
+	position: relative;
+	margin: 0 auto;
+	background: #efefef url(../assets/bg-body.jpg);
+}
