@@ -273,3 +273,35 @@ section h3{
 	margin: 0 auto;
 	background: #efefef url(../assets/bg-body.jpg);
 }
+
+.us{
+  width: 30px;
+  background: #383e39;
+  min-height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.us a{
+  color: white;
+  text-decoration: underline;
+}
+
+.us a:hover{
+  color: #1176b4;
+  text-decoration: none;
+}
+
+a.btn-mymoip{
+	width: 579px;
+	min-height: 78px;
+	display: block;
+	background: url(../assets/bt-mymoip.png) no-repeat;
+	margin-top: 50px;
+	text-indent: -9999px;
+	text-align: center;
+}
+
+a:hover.btn-mymoip {
+	background: url(../assets/bt-mymoip-hover.png) no-repeat;
+}
