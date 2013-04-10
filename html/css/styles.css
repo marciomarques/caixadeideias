@@ -131,8 +131,12 @@ section h3{
 
 .nosso-processo{
 	padding-bottom: 80px;
-	background: #383e39;
+	background: #eee;
 	text-align: center;
+}
+
+.nosso-processo h2{
+  color: black;
 }
 
 .img-circle{
@@ -291,6 +295,12 @@ section h3{
 .us a:hover{
   color: #1176b4;
   text-decoration: none;
+}
+
+.moip{
+  padding-bottom: 80px;
+	background: #383e39;
+	text-align: center;
 }
 
 a.btn-mymoip{
